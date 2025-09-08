@@ -1,5 +1,5 @@
 # AlefBet - Learn Hebrew Interactive Platform
-https://web-development-g15.vercel.app/
+[Visit AlefBet - Learn Hebrew Interactive Platform](https://web-development-g15.vercel.app/)
 
 Welcome to **AlefBet**! This platform allows users to:
 - Translate and save words and sentences in Hebrew.
