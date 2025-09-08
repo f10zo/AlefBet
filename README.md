@@ -19,19 +19,19 @@ Welcome to **AlefBet**! This platform allows users to:
 ## 📸 Screenshots
 
 ### 1. **Home Page**
-   ![Hero Carousel with Call-to-Action](./WebG15_Nextjs/public/appScreenShots/carouselSS.png)
+<img width="847" height="453" alt="image" src="https://github.com/user-attachments/assets/439a87ed-c9c5-4e3b-baa9-25610dacee8e" />
 
 ### 2. **Translation Section**
-   ![Translation Feature](./WebG15_Nextjs/public/appScreenShots/translateSS.png)
+<img width="1840" height="592" alt="image" src="https://github.com/user-attachments/assets/c60efe15-6577-4365-acb6-b376d5027220" />
 
 ### 3. **Quiz Page**
-   ![Quiz Hub](./WebG15_Nextjs/public/appScreenShots/quizSS.png)
+<img width="1450" height="748" alt="image" src="https://github.com/user-attachments/assets/1236d674-6344-4ec4-9621-40d1aaee72e6" />
 
 ### 4. **Account Dashboard**
-   ![User Dashboard](./WebG15_Nextjs/public/appScreenShots/acountSS.png)
+<img width="1838" height="794" alt="image" src="https://github.com/user-attachments/assets/60611c87-0390-4278-b25d-2b19b8c70753" />
 
 ### 5. **Expand Vocabulary**
-![Hebrew Cards Feature. Learn Words Of Many Categories](./WebG15_Nextjs/public/appScreenShots/cardsSS.png)
+<img width="1628" height="1142" alt="image" src="https://github.com/user-attachments/assets/11bdec86-0b0b-4d2e-8b9b-42da221fabc7" />
 
 ---
 
