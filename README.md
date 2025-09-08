@@ -7,6 +7,8 @@ Welcome to **AlefBet**! This platform allows users to:
 - Track progress using personalized learning statistics.
 - Coming Soon - Hebrew chat with an AI bot.🤖
 
+This project was developed **within a group of 4 team members** as part of the **Web Development course**, and we achieved a **grade of 100**.
+
 ## ✨ Project Highlights
 
 1. **Translation Module**: Translate English sentences to Hebrew and hear the pronunciation.
